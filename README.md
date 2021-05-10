@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Moises6669/Moises6669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+ I'm Moisés Masis, a developer who enjoys learning every day, both from mistakes and from projects.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: Backend
+- 💬 Ask me about: Any topic you like from my Github <3 I will be glad to talk with you.
+- 📫 How to reach me:
+  - **Emial** moisesalex132@gmail.com
+  - **Twitter** [@grem_dev](https://twitter.com/Moiss10788160)
+- 😄 Pronouns: Nobody
+- ⚡ Fun fact: if something looks easy, it’s hard; if it looks hard, it’s almost impossible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
