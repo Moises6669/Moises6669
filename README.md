@@ -13,3 +13,17 @@
 
 
  
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/html-5.svg"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/css3.svg"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/bootstrap.svg"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/javascript.svg"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/nodejs-icon-logo-svgrepo-com.svg"></code>
+<code><img height="40" src="https://github.com/Moises6669/Moises6669/blob/main/assets/php.svg"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/laravel-logo.svg"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/mysqk-logo.svg"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/mongodb.png"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/c-sharp-c-seeklogo.com.svg"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/laragon-icon-6ba1779098fd909dbfd41617e35b0e4188981367.png"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/postman.png"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/Git_icon.svg.png"></code>
+<code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/images.png"></code>
