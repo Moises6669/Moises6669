@@ -12,6 +12,7 @@
 - ⚡ Fun fact: if something looks easy, it’s hard; if it looks hard, it’s almost impossible.
 
 
+**🛠Languages and Tools:**  
  
 <code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/html-5.svg"></code>
 <code><img height="35" src="https://github.com/Moises6669/Moises6669/blob/main/assets/css3.svg"></code>
